@@ -83,17 +83,7 @@ The implementation includes robust error handling. Common issues:
 - **Incorrect Password or Salt**: Ensure the same password and salt are used for decryption.
 - **Library Errors**: Install dependencies using `pip install pycryptodome`.
 
----
 
-## License
-This project is for educational purposes. Use responsibly and ensure compliance with your organization's policies.
-
----
-
-## Contact
-For any issues or queries, please contact:
-- **Email**: your.email@example.com
-- **Phone**: +1234567890
 
 ---
 
